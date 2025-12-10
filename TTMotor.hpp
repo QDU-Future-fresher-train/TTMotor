@@ -22,7 +22,6 @@ depends: []
 #include "thread.hpp"
 #include "timebase.hpp"
 #include "timer.hpp"
-#include <sys/_intsup.h>
 
 class TTMotor : public LibXR::Application {
 public:
